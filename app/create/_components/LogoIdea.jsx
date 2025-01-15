@@ -2,6 +2,7 @@ import Lookup from '@/app/_data/Lookup'
 import Prompt from '@/app/_data/Prompt'
 import { Loader2Icon } from 'lucide-react'
 import React, { useEffect, useState } from 'react'
+import HeadingDescription from './HeadingDescription'
 
 const LogoIdea = ({formData,onHandleInputChange}) => {
 
